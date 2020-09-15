@@ -1,4 +1,4 @@
-N1 = 51; %trial 1
+N1 = 51;
 N2 = 31;
 sigma1 = 5;
 sigma2 = 3;
