@@ -1,4 +1,4 @@
-rgbImage = imread('Manor.png');
+rgbImage = imread('Manor.png');  %aaa
 grayscaleImage = rgb2gray(rgbImage); 
 
 location = [600 400];
